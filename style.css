@@ -10,8 +10,12 @@ body {
   background: linear-gradient(pink, violet);
 }
 
+li {
+  font-size: 18;
+}
+
 button {
-  font-size: 7px;
+  font-size: 14x;
 }
 
 #main-content {
